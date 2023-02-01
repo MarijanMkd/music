@@ -1,0 +1,43 @@
+#site {
+border: 1px solid black;
+height: 50px;
+width: 400px;
+background: white;
+margin: 0px auto;
+padding: 10px;
+}
+
+#site ul {
+list-style-type: none;
+}
+
+#site ul li {
+width: 70px;
+display: inline;
+padding: 10px;
+}
+
+#site ul li a:link {
+text-decoration: none;
+}
+
+#site ul li a:visited {
+text-decoration: none;
+color: blue;
+}
+
+#site ul li a:hover {
+text-decoration: none;
+font-weight: bold;
+}
+	
+#site ul li a:active{
+text-decoration: none;
+color: red;
+}
+
+
+body {
+    background-image: image.png
+    color: #FFFFFF;
+}
